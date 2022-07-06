@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 37,
+      "title": "macOS",
+      "author": "Arnold Schwarzenegger"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "banana": [
+    {
+      "id": 34,
+      "book": "Harry Potter",
+      "food": "Pizza"
+    },
+    {
+      "id": 72,
+      "sport": "tennis",
+      "location": "US Open"
+    }
+  ]
+}
